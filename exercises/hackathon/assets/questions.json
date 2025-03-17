@@ -1,0 +1,98 @@
+[
+    {
+      "question": "What is Flutter?",
+      "type": "single",
+      "options": ["Programming Language", "UI Framework", "Database", "Operating System"],
+      "correct": "UI Framework"
+    },
+    {
+      "question": "Is Dart the primary programming language of Flutter?",
+      "type": "truefalse",
+      "options": ["True", "False"],
+      "correct": "True"
+    },
+    {
+      "question": "Which of the following are features of Dart?",
+      "type": "multiple",
+      "options": ["Strongly Typed", "Object-Oriented", "Based on Python", "Supports Asynchronous Programming"],
+      "correct": ["Strongly Typed", "Object-Oriented", "Supports Asynchronous Programming"]
+    },
+    {
+      "question": "Which programming language does Flutter use?",
+      "type": "single",
+      "options": ["Java", "Kotlin", "Dart", "Swift"],
+      "correct": "Dart"
+    },
+    {
+      "question": "What types of applications can be developed using Flutter?",
+      "type": "multiple",
+      "options": ["Android", "iOS", "Web", "Windows"],
+      "correct": ["Android", "iOS", "Web", "Windows"]
+    },
+    {
+      "question": "What are all UI components in Flutter called?",
+      "type": "single",
+      "options": ["Widgets", "Components", "Elements", "Modules"],
+      "correct": "Widgets"
+    },
+    {
+      "question": "Is Flutter developed by Google?",
+      "type": "truefalse",
+      "options": ["True", "False"],
+      "correct": "True"
+    },
+    {
+      "question": "Which widget is used to create a scrollable list in Flutter?",
+      "type": "single",
+      "options": ["ListView", "Column", "Row", "Container"],
+      "correct": "ListView"
+    },
+    {
+      "question": "What is the main difference between a Stateful Widget and a Stateless Widget?",
+      "type": "single",
+      "options": [
+        "Stateful Widget has state, Stateless Widget does not",
+        "Stateless Widget is faster",
+        "Stateful Widget is smaller",
+        "No difference"
+      ],
+      "correct": "Stateful Widget has state, Stateless Widget does not"
+    },
+    {
+      "question": "What rendering engine does Flutter use?",
+      "type": "single",
+      "options": ["Blink", "WebKit", "Skia", "Gecko"],
+      "correct": "Skia"
+    },
+    {
+      "question": "Which tool is used for debugging Flutter applications?",
+      "type": "single",
+      "options": ["Android Studio", "Xcode", "Flutter DevTools", "VS Code"],
+      "correct": "Flutter DevTools"
+    },
+    {
+      "question": "What is the primary purpose of the `setState()` method in Flutter?",
+      "type": "single",
+      "options": ["Update UI", "Navigate to a new page", "Manage database", "Handle HTTP requests"],
+      "correct": "Update UI"
+    },
+    {
+      "question": "Does Flutter support Hot Reload?",
+      "type": "truefalse",
+      "options": ["True", "False"],
+      "correct": "True"
+    },
+    {
+      "question": "How do you add an AppBar to the screen in Flutter?",
+      "type": "single",
+      "options": ["Use Container", "Use AppBar", "Use Scaffold", "Use Row"],
+      "correct": "Use Scaffold"
+    },
+    {
+      "question": "What are the advantages of Flutter?",
+      "type": "multiple",
+      "options": ["Cross-Platform", "High Performance", "Easy UI Building", "Requires a lot of code"],
+      "correct": ["Cross-Platform", "High Performance", "Easy UI Building"]
+    }
+  ]
+  
